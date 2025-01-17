@@ -1,0 +1,21 @@
+{
+    "lang":"zh-CN",
+    "translate":{
+        "Api":{
+            "Common":{
+                "Unauthorized":"访问令牌无效"
+            },
+            "LobbyOperationFailedResponse":{
+                "AccessDenied":"令牌持有的权限无法完成此操作",
+                "InvalidToken":"令牌无效",
+                "TokenNotFound":"令牌未在此签发或已吊销",
+                "AlreadyJoined":"已经加入此大厅",
+                "":""
+            },
+            "LoginOpetationFailedResponse":{
+                "Invalididentifier":"识别码无效"
+            }
+        }
+    }
+
+}
